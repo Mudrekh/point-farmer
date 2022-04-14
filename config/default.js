@@ -3,6 +3,7 @@ module.exports = {
     'deuceace',
     'roshtein',
     'vondice',
-    'frankdimes'
+    'frankdimes',
+    'trainwreckstv'
   ]
 };
